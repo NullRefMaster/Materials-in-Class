@@ -1,6 +1,6 @@
 # Introduction to 2D Game Development
 ## COMP561405 游戏设计与开发
-### Materials-in-Class
+### Materials in Class
 Materials in Class is a repository concerning the Course Lecture Notes and Post-Lecture Exercise Analysis
 
 ### Brief Introduction
